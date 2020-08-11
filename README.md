@@ -13,7 +13,8 @@ Utilizing MySQL, Inquirer, and concepts of ASYNC to create a Terminal Program th
   * [Questions](#Questions)
 
 ## User Story
-```As a business owner
+```
+As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
 ```
